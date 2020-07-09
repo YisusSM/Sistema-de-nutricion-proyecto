@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./libs/aws-apigateway-api-sdk-1.0.0.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/aws-apigateway-api-sdk-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
